@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot",
+  "name": "PacarGaeul|Whatsappbot|",
   "version": "2.11.0",
   "description": "whatsapp-bot with NodeJS",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Urbaexyz/whatsapp-bot.git"
+    "url": "git+https://github.com/wawangamer/whatsapp-bot1/"
   },
   "keywords": [
     "Whatsapp-Bot",
     "whatsapp-bot",
     "wa-bot"
   ],
-  "author": "Thoriq Azzikra",
+  "author": "wawangamer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Urbaexyz/whatsapp-bot/issues"
+    "Contact": "wa.me/6283129544189"
   },
-  "homepage": "https://github.com/Urbaexyz/whatsapp-bot",
+  "homepage": "https://github.com/wawangamer/whatsapp-bot1/",
   "dependencies": {
     "@open-wa/wa-automate": "^4.36.6",
     "@phaticusthiccy/open-apis": "^1.6.0",
